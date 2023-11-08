@@ -1,0 +1,216 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "zThwkPCM-TW7GUtrGSYsS03C_dg",
+  "nextPageToken": "CAYQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 210,
+    "resultsPerPage": 6
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2QC-_fgU_MY22j0MYrjPyP5EXSE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V3dbG9pAi8I"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T16:00:15Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Behind the scenes: An Apple Event shot on iPhone",
+        "description": "Take a look at an Apple Event shot on iPhone 15 Pro. The team behind the curtain talks process. The director shoots in low light ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V3dbG9pAi8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V3dbG9pAi8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V3dbG9pAi8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T16:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NpsPnXHxDLc9LDNiwLAgvuCSpqI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "edpJev-jyx4"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T00:43:35Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "You Think That&#39;s Hard Work? | Mac | Apple",
+        "description": "This film celebrates doing hard work on Mac. It shows that how no matter what you do or how you do it – from STEMM to business ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/edpJev-jyx4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/edpJev-jyx4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/edpJev-jyx4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T00:43:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5VwQtE3ndBfAsbZfRNSL0CCm_cs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0pg_Y41waaE"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T00:38:42Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "The new MacBook Pro | Apple",
+        "description": "The new MacBook Pro blasts forward with M3, M3 Pro, and M3 Max, the most advanced chips ever built for a personal computer.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0pg_Y41waaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0pg_Y41waaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0pg_Y41waaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T00:38:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MAukz7L7O2NB8EyC-PY0GvyINLA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ctkW3V0Mh-k"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-31T00:35:10Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Apple Event - October 30",
+        "description": "Watch the special Apple Event to learn about the new MacBook Pro and iMac with the M3 family of chips. To watch the event ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ctkW3V0Mh-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ctkW3V0Mh-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ctkW3V0Mh-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-31T00:35:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uX7FgmHqS0f7bdBKN3JD5TzE6xw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_b2OZY7hIx8"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T16:01:30Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "TRAILER: Study With Me video feat. Storm Reid. Tap the link to watch the full video. #Shorts",
+        "description": "90-minute Study With Me video featuring Storm Reid that's designed to keep you focused on studying and away from distractions.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_b2OZY7hIx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_b2OZY7hIx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_b2OZY7hIx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T16:01:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oNTa9Ot-eFyqb8FAoAORbvro7BI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ti6r17_TWf4"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T16:01:11Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Study With Me feat. Storm Reid x Apple",
+        "description": "90-minute Study With Me video featuring Storm Reid that's designed to keep you focused on studying and away from distractions.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ti6r17_TWf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ti6r17_TWf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ti6r17_TWf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T16:01:11Z"
+      }
+    }
+  ]
+}
